@@ -20,7 +20,6 @@ Banco de Dados (SQLite) → guarda os metadados dos vídeos.
 
 #Estrutura de Pasta
 
-trabalho 03/ ├── .venv/ # Ambiente virtual ├── server/ # Lógica de banco de dados │ ├── init.py │ ├── database.py │ ├── videos.sql │ └── controller.py ├── tests/ # Testes automatizados │ └── teste_db.py ├── main.py # Script principal ├── app.db # Banco de dados gerado └── README.md # Este arquivo
 
 
 ---
