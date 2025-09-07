@@ -35,15 +35,8 @@ Banco de Dados (SQLite) → guarda os metadados dos vídeos.
 
 ## Como executar o projeto:
 
-### 1. Clone o repositório
-
 Execute o script principal:
  python main.py
 
-PARA TESTAR O BD:
-## Rodar O ARQUIVO tests:
-pip install -r requirements.txt
------
-## Rode o teste:
-pytest -v
+
 
